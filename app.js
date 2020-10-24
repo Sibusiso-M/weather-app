@@ -1,9 +1,7 @@
-//https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=#yourapi#
-
 //APP CONSTANTS AND VARS
 const KELVIN = 273;
 //API KEY
-const key = "6cc608b621854d7853634306a159db44";
+const key = "#yourapi#";
 
 const notificationElement = document.querySelector(".notification");
 const iconElement = document.querySelector(".weather-icon");
