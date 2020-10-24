@@ -1,5 +1,4 @@
-//6cc608b621854d7853634306a159db44
-//https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=6cc608b621854d7853634306a159db44
+//https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=#yourapi#
 
 //APP CONSTANTS AND VARS
 const KELVIN = 273;
